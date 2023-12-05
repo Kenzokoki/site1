@@ -1,0 +1,36 @@
+.rowspace{
+    margin-bottom: 10px;
+}
+
+.bg-gradiente {
+    background: linear-gradient(55deg, rgb(147, 147, 147), rgb(69, 69, 69), rgb(48, 48, 48), rgb(44, 44, 44), rgb(32, 32, 32));
+}
+
+.logo {
+    height: 160px;
+    width: 160px;
+}
+.navbutton {
+
+color: white;
+border-color: black;
+}
+
+.navbar {
+color: black;
+
+}
+
+.pesquisar {
+    padding-right: 100px;
+width: 125%;
+}
+
+
+.bordabtn:hover{
+    border:black;
+}
+
+.betaalanina {
+    margin-bottom: 100px ;
+}
